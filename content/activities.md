@@ -3,6 +3,7 @@ title: "Club Activities"
 draft: false
 type: page
 menu: main
+weight: 2
 omit_header_text: true
 featured_image: '/images/IARCCoverPhoto.jpg'
 ---

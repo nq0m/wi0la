@@ -3,6 +3,7 @@ title: "Ham Radio"
 draft: false
 type: page
 menu: main
+weight: 1
 omit_header_text: true
 featured_image: '/images/IARCCoverPhoto.jpg'
 ---
