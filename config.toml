@@ -1,4 +1,4 @@
-baseURL = 'http://wi0la.jutley.org/'
+baseURL = 'https://wi0la.pages.dev/'
 languageCode = 'en-us'
 title = 'Iola Amateur Radio Club - WI0LA'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
