@@ -6,7 +6,10 @@ featured_image: '/images/IARCCoverPhoto.jpg'
 
 # Amateur Radio in Allen County, KS
 
-Check into the net on Thursday evening at 7:00pm on the VHF repeater. Our next meeting is Saturday, January 14, 2023.  We will meet at the Iola Public Library at 1:00 PM.  The meeting will precede a presentation of Amateur Radio to the public at 2:00PM by Stan Grigsby, WA6AAI.
+The Iola Amateur Radio Club (IARC) serves Allen County, KS and the surronding area.  It was formed in November 2007 by Red Robert (AA7CP, SK) and Ralph Romig (WA0KHV, SK).
+
+Check into the net on Thursday evening at 7:00pm on the VHF repeater. Our next meeting is Tuesday, February 4, 2023.  We will meet at the former Methodist Church on S. Kentucky (now known as "The Foundry").
+
 
 # Our Repeaters
 
