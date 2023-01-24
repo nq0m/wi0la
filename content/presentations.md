@@ -8,4 +8,4 @@ omit_header_text: true
 featured_image: '/images/IARCCoverPhoto.jpg'
 ---
 
-We are currently scheduled to give a presentation on Amateur Radio at the Iola Public Library at 2:00PM Saturday, January 14, 2023.
+Our next club meeting will be held on February 7, 2023 at the former Methodist Church on S. Kentucky Street in Iola, at 7PM.  Following that meeting, Ron Cowan, KB0DTI, Kansas Section Manager will be giving a presentation about the ARRL.
